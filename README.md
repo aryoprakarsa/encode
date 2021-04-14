@@ -1,4 +1,4 @@
-# Encode Function# 
+# Encode Function
 
  Function that encodes “aaaabcccaaa” to “4ab3c3a”
 
